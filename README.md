@@ -7,4 +7,4 @@ A →aBa
 
 B →bB | ε. 
 
-Use this table to parse the sentence: abba$.
+Use this table to parse the sentence: abba$
