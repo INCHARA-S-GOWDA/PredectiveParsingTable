@@ -37,7 +37,7 @@ void main()
 	printf("\t a \t b \t $ \n");
 	printf("A\t%s\n",prod[0]);
 	printf("B\t%s\t%s\n",prod[2],prod[1]);
-	printf("enter the input string terminated with '$' to parse:-");
+	printf("enter the input string terminated with '$' to parse:-"); //the input must end with $
 	scanf("%s",&input);
 	for(i=0;input[i]!='\0';i++)
 	{
